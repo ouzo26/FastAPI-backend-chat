@@ -20,9 +20,9 @@ API Endpoints
 
 things used so far : 
 
--Python
--FastAPI
--SQLite
--Pydantic
--OpenAI API
--python-dotenv
+- Python
+- FastAPI
+- SQLite
+- Pydantic
+- OpenAI API
+- python-dotenv
