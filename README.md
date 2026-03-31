@@ -18,9 +18,11 @@ API Endpoints
 - `GET /messages` — retrieve saved messages from the database
 
 
-Python
-FastAPI
-SQLite
-Pydantic
-OpenAI API
-python-dotenv
+things used so far : 
+
+-Python
+-FastAPI
+-SQLite
+-Pydantic
+-OpenAI API
+-python-dotenv
