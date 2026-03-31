@@ -12,11 +12,15 @@ stores the user message and assistant reply in SQLite, and returns the reply as 
 - Interactive API testing with FastAPI Swagger UI
 
 
+API Endpoints
 
-- Python
-- FastAPI
-- SQLite
-- Pydantic
-- OpenAI API
-- python-dotenv
+- `POST /chat` — send a message and receive an AI-generated reply
+- `GET /messages` — retrieve saved messages from the database
 
+
+Python
+FastAPI
+SQLite
+Pydantic
+OpenAI API
+python-dotenv
